@@ -7,10 +7,10 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on modern, responsive, and user-friendly web applications
 - 💬 Ask me about Javascript and React
-- 📫 How to reach me: maramahmed1818@gmail.com
-- 📁 My Portfolio: https://github.com/MaramAhmed18
-- 📝 I share my thoughts at: https://www.linkedin.com/in/maramahmed10
-- 📄 My Resume: https://drive.google.com/drive/folders/1fVgrMpNSyj6m43yk3KdQXUx3OeIHGIkW?usp=sharing
+- 📫 How to reach me: maramahmed1818@gmail.com  
+- 📁 My Portfolio: [Portfolio](https://github.com/MaramAhmed18) 
+- 📝 I share my thoughts at: [linkedin](https://www.linkedin.com/in/maramahmed10)
+- 📄 My Resume: [My Cv](https://drive.google.com/drive/folders/1fVgrMpNSyj6m43yk3KdQXUx3OeIHGIkW?usp=sharing)
 # Hi there 👋, I'm Maram Ahmed 
 
 💻 A passionate **Front-End Developer** who loves building **modern, responsive, and user-friendly web applications**.  
@@ -32,12 +32,13 @@ Here are some ideas to get you started:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff)  
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)  
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000)  
-![Vue.js](https://img.shields.io/badge/Vue.js-42B883?logo=vue.js&logoColor=fff)  
-![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=fff)  
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff) 
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000) 
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=000)
+  
 
-### 🎨 Styling & UI  
+### 🎨 Styling & UI 
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff) 
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=fff)  
 ![Sass](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=fff)  
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff)  
@@ -46,21 +47,28 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)  
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=000)  
-![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=fff)  
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=fff)  
 
 ---
 
 ## 📂 Projects  
 
-🔹 **[E-Commerce Store](https://github.com/yourusername/ecommerce)**  
-A responsive online store built with **React, Tailwind, and Firebase**, featuring real-time cart management and PayPal checkout.  
+🔹 **[E-Commerce Website](https://github.com/MaramAhmed18/E-Commerce-WebSite-main.git)**  
+A responsive **online store** with product listing, shopping cart, and secure checkout via **PayPal**.  
+-  Implemented **user authentication** for secure access  
+- Integrated **real-time database** using **Firebase & Supabase**  
+- Built front-end with **HTML, CSS, and Pure JavaScript**  
 
-🔹 **[Portfolio Website](https://github.com/yourusername/portfolio)**  
-Personal portfolio showcasing my projects and skills, crafted with **Next.js and TailwindCSS**.  
+🔹 **[Inance Website](https://github.com/MaramAhmed18/Inance-React-Templete.git)**  
+A modern **home services and repairs website** developed using **React, Sass, Bootstrap**, and the **Formik** library.  
+- Responsive layout with **Bootstrap** for a clean and professional UI  
+-  Styled components using **Sass** for modular and maintainable CSS  
+-  Integrated **Formik** for smooth and validated form handling  
 
-🔹 **[Task Manager App](https://github.com/yourusername/task-manager)**  
-A productivity app built using **Vue.js and Firebase**, enabling users to track and manage tasks seamlessly.  
+🔹 **[Restoran Website](https://github.com/MaramAhmed18/Restoran-templete.git)**  
+A stylish **restaurant website** showcasing menus, services, and booking features.  
+-  Built with **HTML, CSS, Bootstrap, and Pure JavaScript**  
+-  Integrated **APIs** for dynamic content  
+-  Added interactive UI using **AOS, Animate.css, and Swiper.js** animation libraries
 
 ---
 
