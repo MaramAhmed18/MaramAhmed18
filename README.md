@@ -2,7 +2,7 @@
 
   <h1 align="center">
   Hi 👋, I'm Maram Ahmed  
-  <br/>
+  <br/> <br/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00C7F7&center=true&vCenter=true&width=600&lines=Maram+Ahmed;Front-End+Developer;UI%2FUX+Enthusiast;Clean+Code+Advocate" alt="Typing SVG" />
 </h1>
 
