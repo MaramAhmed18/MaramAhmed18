@@ -45,15 +45,6 @@
 
 ---
 
-## 🌟 My Creative Rituals  
-
-<p align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200px" alt="coding animation"/>
-  
-</p>
-
----
-
 ## 📂 Projects  
 
 🔹 **[E-Commerce Website](https://github.com/MaramAhmed18/E-Commerce-WebSite-main.git)**  
