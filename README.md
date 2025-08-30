@@ -15,11 +15,9 @@
 
 ## 🛠️ Skills & Tools  
 
-### 🚀 Frontend  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000) ![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000) ![React Native](https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=000) 
+###  🎨 Frontend & UI
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=fff) ![Sass](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=fff) ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000) ![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000) ![React Native](https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=000) 
 
-### 🎨 Styling & UI  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=fff) ![Sass](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=fff) ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff)
 
 ### ⚙️ Backend & Tools  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=000) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=fff)
