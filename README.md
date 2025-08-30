@@ -29,24 +29,26 @@ Here are some ideas to get you started:
 ## 🛠️ Skills & Tools  
 
 ### 🚀 Frontend  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)  
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff) 
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000) 
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=000)
-  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000) ![React Native](https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=000) ![Vue.js](https://img.shields.io/badge/Vue.js-42B883?logo=vue.js&logoColor=fff) ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=fff) ![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff)
 
-### 🎨 Styling & UI 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff) 
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=fff)  
-![Sass](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=fff)  
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff)  
+### 🎨 Styling & UI  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=fff) ![Sass](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=fff) ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff)
 
-### 🛠️ Tools & Platforms  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=000)  
+### ⚙️ Backend & Tools  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=000) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=fff) ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=fff) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=fff)
+
+---
+
+## 🌟 My Creative Rituals  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="120px" alt="coding gif"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="120px" alt="coffee gif"/>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="120px" alt="design gif"/>
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="120px" alt="problem solving gif"/>
+</p>
+
+✨ Code ☕ Coffee 🎨 Design 🚀 Problem-Solving  
 
 ---
 
