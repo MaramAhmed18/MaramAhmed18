@@ -24,7 +24,7 @@
 
 
 - 🔭 I’m currently working on modern, responsive, and user-friendly web applications
-- 💬 Ask me about Javascript and React
+- 💬 Ask me about front-end frameworks, UI trends and React
 - 📫 How to reach me: maramahmed1818@gmail.com  
 - 📁 My Portfolio: [Portfolio](https://github.com/MaramAhmed18) 
 - 📝 I share my thoughts at: [linkedin](https://www.linkedin.com/in/maramahmed10)
