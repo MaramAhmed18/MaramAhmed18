@@ -2,12 +2,12 @@
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300px" alt="frontend developer animation"/>
 </p>
 
-  <h1 align="center">
-  Hi 👋, I'm Maram Ahmed <br/>
-    <h3 align="center">🚀 A passionate Front-End Developer from Egypt</h3>
+<h1 align="center">Hi 👋, I'm Maram Ahmed</h1>
+<h3 align="center">🚀 A passionate Front-End Developer from Egypt</h3>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C7F7&center=true&vCenter=true&width=600&lines=Front-End+Developer;Cross-Platform+Developer;Always+Learning+Something+New" alt="Typing SVG" />
-  <br/> <br/>
-</h1>
+</p>
 
 
 
