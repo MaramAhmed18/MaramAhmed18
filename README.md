@@ -1,9 +1,13 @@
-# Hi there, I'm [Your Name] 👋
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300px" alt="frontend developer animation"/>
+</p>
 
-### 💻 Front-End & Cross-Platform Developer
-I am a passionate Developer dedicated to building **modern, responsive, and user-friendly interfaces**. With a strong foundation in the **React ecosystem**, I focus on turning complex problems into elegant, high-performance digital experiences. Whether it's a web platform or a mobile app, I strive for pixel-perfect UI and seamless UX.
+<h1 align="center">Hi 👋, I'm Maram Ahmed</h1>
+<h3 align="center">🚀 A passionate Front-End and Cross-Platform Developer from Egypt</h3>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C7F7&center=true&vCenter=true&width=600&lines=Front-End+Developer;React+%26+React+Native+Specialist;GenAI+Enthusiast;ITI+Graduate" alt="Typing SVG" />
+</p>
 
 ### 🛠️ Skills & Tools
 
