@@ -15,7 +15,6 @@
 
 - 🎓 **Computer Science & ITI Graduate**  specializing in modern Front-End architectures.
 - 💡 Experienced in building responsive web and mobile applications with **React** and **React Native**.
-- 🤖 Passionate about **Generative AI**, currently integrating **Gemini-RAG** and automated workflows (n8n) into web platforms.
 - 🎨 Focused on pixel-perfect UI/UX, ensuring accessibility and high performance across all devices.
 - 📄 **Resume:** [View My CV](https://drive.google.com/file/d/1uwft2Z-yMd13gC9caNWJehdwTQNwLm3X/view?usp=sharing)
 - 📁 **Portfolio:** [maram-ahmed.vercel.app](https://maram-ahmed.vercel.app/) 
