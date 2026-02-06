@@ -6,7 +6,7 @@
 <h3 align="center">🚀 Front-End & Cross-Platform Developer from Egypt</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C7F7&center=true&vCenter=true&width=600&lines=Front-End+Engineer;React+%26+React+Native+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C7F7&center=true&vCenter=true&width=600&lines=Front-End+Developer;React+%26+React+Native+Specialist" alt="Typing SVG" />
 </p>
 
 ---
