@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me  
 
-- 🎓 **ITI Graduate** with an **A+** graduation project, specializing in modern Front-End architectures.
+- 🎓 **Computer Science & ITI Graduate**  specializing in modern Front-End architectures.
 - 💡 **1+ Year of Experience** building responsive web and mobile applications with **React** and **React Native**.
 - 🤖 Passionate about **Generative AI**, currently integrating **Gemini-RAG** and automated workflows (n8n) into web platforms.
 - 🎨 Focused on pixel-perfect UI/UX, ensuring accessibility and high performance across all devices.
