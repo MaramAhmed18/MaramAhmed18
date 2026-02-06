@@ -22,9 +22,9 @@
 - 🔭 I’m currently working on modern, responsive, and user-friendly web applications
 - 💬 Ask me about front-end frameworks, UI trends and React
 - 📫 How to reach me: maramahmed1818@gmail.com  
-- 📁 My Portfolio: [Portfolio](https://github.com/MaramAhmed18) 
+- 📁 My Portfolio: [Portfolio](https://maram-ahmed.vercel.app/) 
 - 📝 I share my thoughts at: [linkedin](https://www.linkedin.com/in/maramahmed10)
-- 📄 My Resume: [My Cv](https://drive.google.com/drive/folders/1fVgrMpNSyj6m43yk3KdQXUx3OeIHGIkW?usp=sharing)
+- 📄 My Resume: [My Cv](https://drive.google.com/file/d/1uwft2Z-yMd13gC9caNWJehdwTQNwLm3X/view?usp=sharing)
 
  
 ---
@@ -32,7 +32,7 @@
 
 ## 📂 Projects  
 
-🔹 **[E-Commerce Website](https://github.com/MaramAhmed18/E-Commerce-WebSite-main.git)**  
+🔹 **[Sٍٍhopy Website](https://github.com/MaramAhmed18/E-Commerce-WebSite-main.git)**  
 A responsive **online store** with product listing, shopping cart, and secure checkout via **PayPal**.  
 -  Implemented **user authentication** for secure access  
 - Integrated **real-time database** using **Firebase & Supabase**  
