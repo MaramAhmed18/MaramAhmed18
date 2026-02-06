@@ -42,7 +42,7 @@
 - **Key Features:** Integrated **Gemini-RAG** and **n8n** for automated customer assistance and real-time tracking.
 - **Tech Stack:** React, Context API, Tailwind, Firebase, Supabase , GenAI(Google Gimini-RAG-n8n).
 
-🚀 **[E-learning Hub](https://github.com/MaramAhmed18/E-learning-React-Website.git)** *Localized educational platform for a global audience.*
+🚀 **[E-learning](https://github.com/MaramAhmed18/E-learning-React-Website.git)** *Localized educational platform for a global audience.*
 - **Key Features:** Multi-language support via **i18next** and complex state management for course progress.
 - **Tech Stack:** React, Redux, Axios, i18next, Tailwind.
 
