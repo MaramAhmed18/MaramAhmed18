@@ -32,23 +32,26 @@
 
 ## 📂 Projects  
 
-🔹 **[Sٍٍhopy Website](https://github.com/MaramAhmed18/E-Commerce-WebSite-main.git)**  
-A responsive **online store** with product listing, shopping cart, and secure checkout via **PayPal**.  
--  Implemented **user authentication** for secure access  
-- Integrated **real-time database** using **Firebase & Supabase**  
-- Built front-end with **HTML, CSS, and Pure JavaScript**  
+🔹 **[Sٍٍhopy Website](https://github.com/MaramAhmed18/Shopy-React-E-commerce.git)**  
+A responsive e-commerce platform featuring secure ** PayPal ** checkout, real-time data sync, and a ** GenAI** chatbot for intelligent product discovery.
+- Implemented intelligent product discovery using a ** GenAI ** chatbot.
+- Integrated real-time database sync and secure ** PayPal ** checkout.
+- Built front-end with ** React, Context API, Tailwind, and Formik, using Firebase & Supabase ** for the backend. 
 
-🔹 **[Inance Website](https://github.com/MaramAhmed18/Inance-React-Templete.git)**  
-A modern **home services and repairs website** developed using **React, Sass, Bootstrap**, and the **Formik** library.  
-- Responsive layout with **Bootstrap** for a clean and professional UI  
--  Styled components using **Sass** for modular and maintainable CSS  
--  Integrated **Formik** for smooth and validated form handling  
 
-🔹 **[Restoran Website](https://github.com/MaramAhmed18/Restoran-templete.git)**  
-A stylish **restaurant website** showcasing menus, services, and booking features.  
--  Built with **HTML, CSS, Bootstrap, and Pure JavaScript**  
--  Integrated **APIs** for dynamic content  
--  Added interactive UI using **AOS, Animate.css, and Swiper.js** animation libraries
+
+🔹 **[Enjez Website](https://github.com/MaramAhmed18/Enjez.git)**  
+A Full-service booking system with service exploration and real-time tracking, integrated with ** Gemini-RAG and n8n ** for automated AI support.
+- Developed a real-time tracking and service exploration booking system.
+- Integrated ** Gemini-RAG and n8n ** for automated AI customer support.
+- Built with ** React, Context API, Tailwind, Firebase, and Supabase **.
+
+
+🔹 **[E-learning Website](https://github.com/MaramAhmed18/E-learning-React-Website.git)**  
+A Dynamic e-learning platform supporting interactive course management, user engagement, and multi-language localization.
+- Supported interactive course management and enhanced user engagement features.
+- Implemented multi-language localization using i18next.
+- Built with React, Redux, Tailwind, and Axios for API integration.
 
 ---
 
