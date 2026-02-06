@@ -6,7 +6,7 @@
 <h3 align="center">🚀 Front-End & Cross-Platform Developer from Egypt</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C7F7&center=true&vCenter=true&width=600&lines=Front-End+Engineer;React+%26+React+Native+Specialist;ITI+Graduate;AI+Integration+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C7F7&center=true&vCenter=true&width=600&lines=Front-End+Engineer;React+%26+React+Native+Specialist" alt="Typing SVG" />
 </p>
 
 ---
@@ -14,7 +14,7 @@
 ## 👨‍💻 About Me  
 
 - 🎓 **Computer Science & ITI Graduate**  specializing in modern Front-End architectures.
-- 💡 **1+ Year of Experience** building responsive web and mobile applications with **React** and **React Native**.
+- 💡 Experienced in building responsive web and mobile applications with **React** and **React Native**.
 - 🤖 Passionate about **Generative AI**, currently integrating **Gemini-RAG** and automated workflows (n8n) into web platforms.
 - 🎨 Focused on pixel-perfect UI/UX, ensuring accessibility and high performance across all devices.
 - 📄 **Resume:** [View My CV](https://drive.google.com/file/d/1uwft2Z-yMd13gC9caNWJehdwTQNwLm3X/view?usp=sharing)
