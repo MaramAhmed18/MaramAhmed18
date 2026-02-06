@@ -11,12 +11,19 @@
 
 ---
 
-## 🛠️ Skills & Tools  
+### 🛠️ Skills & Tools
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=fff) ![Sass](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=fff) ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000) ![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff) ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000) ![React Native](https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=000) 
- ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=000) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=fff)
+| Category | Technologies |
+| :--- | :--- |
+| **Front-End Core** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) |
+| **Styling & UI** | ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) |
+| **Libraries & State** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black) |
+| **Back-End & Tools** | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
+| **AI Integration** | ![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white) **GenAI / RAG** |
 
 ---
+
+
 ## 👨‍💻 About Me  
 
 - 🔭 I’m currently working on modern, responsive, and user-friendly web applications
@@ -30,28 +37,25 @@
 ---
 
 
-## 📂 Projects  
 
-🔹 **[Sٍٍhopy Website](https://github.com/MaramAhmed18/Shopy-React-E-commerce.git)**  
-A responsive e-commerce platform featuring secure ** PayPal ** checkout, real-time data sync, and a ** GenAI** chatbot for intelligent product discovery.
-- Implemented intelligent product discovery using a ** GenAI ** chatbot.
-- Integrated real-time database sync and secure ** PayPal ** checkout.
-- Built front-end with ** React, Context API, Tailwind, and Formik, using Firebase & Supabase ** for the backend. 
+### 📂 Featured Projects
+
+🔹 **[Shopy Website](https://github.com/MaramAhmed18/Shopy-React-E-commerce.git)** *A responsive e-commerce platform featuring secure payments and intelligent discovery.*
+- **AI-Powered:** Integrated a **GenAI chatbot** for intelligent product discovery.
+- **Secure:** Implemented **PayPal** checkout and real-time database sync.
+- **Stack:** React, Context API, Tailwind, Formiik, Firebase, and Supabase.
+
+🔹 **[Enjez Website](https://github.com/MaramAhmed18/Enjez.git)** *Full-service booking system with automated AI support.*
+- **Smart Support:** Integrated **Gemini-RAG and n8n** for automated AI customer assistance.
+- **Features:** Real-time tracking and service exploration modules.
+- **Stack:** React, Context API, Tailwind, Firebase and Supabase.
+
+🔹 **[E-learning Website](https://github.com/MaramAhmed18/E-learning-React-Website.git)** *Dynamic educational platform with localization.*
+- **Global Ready:** Implemented multi-language localization using **i18next**.
+- **State Management:** Utilized **Redux** for complex course management logic.
+- **Stack:** React, Redux, Tailwind, Axios i18next library for localization.
 
 
-
-🔹 **[Enjez Website](https://github.com/MaramAhmed18/Enjez.git)**  
-A Full-service booking system with service exploration and real-time tracking, integrated with ** Gemini-RAG and n8n ** for automated AI support.
-- Developed a real-time tracking and service exploration booking system.
-- Integrated ** Gemini-RAG and n8n ** for automated AI customer support.
-- Built with ** React, Context API, Tailwind, Firebase, and Supabase **.
-
-
-🔹 **[E-learning Website](https://github.com/MaramAhmed18/E-learning-React-Website.git)**  
-A Dynamic e-learning platform supporting interactive course management, user engagement, and multi-language localization.
-- Supported interactive course management and enhanced user engagement features.
-- Implemented multi-language localization using i18next.
-- Built with React, Redux, Tailwind, and Axios for API integration.
 
 ---
 
