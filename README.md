@@ -13,9 +13,10 @@
 
 ## 👨‍💻 About Me  
 
-- 🎓 **Computer Science & ITI Graduate**  specializing in modern Front-End architectures.
-- 💡 Experienced in building responsive web and mobile applications with **React** and **React Native**.
-- 🎨 Focused on pixel-perfect UI/UX, ensuring accessibility and high performance across all devices.
+- 🎓 **Computer Science & ITI Graduate** specializing in modern Full-Stack architectures.
+- 💡 Expert in building responsive web and mobile applications with **React** and **React Native**.
+- 🛠️ Robust back-end capabilities utilizing Node.js, Express.js, and MongoDB to deliver complete end-to-end solutions.
+- 🧠 Focused on pixel-perfect UI/UX and integrating advanced Generative AI features.  
 - 📄 **Resume:** [View My CV](https://drive.google.com/file/d/1uwft2Z-yMd13gC9caNWJehdwTQNwLm3X/view?usp=sharing)
 - 📁 **Portfolio:** [maram-ahmed.vercel.app](https://maram-ahmed.vercel.app/) 
 
@@ -28,7 +29,7 @@
 | **Front-End Core** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat&logo=google-cloud&logoColor=white) |
 | **Styling & UI** | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=fff) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat&logo=mui&logoColor=white) |
 | **Libraries & State** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![Context API](https://img.shields.io/badge/Context_API-61DAFB?style=flat&logo=react&logoColor=white) |
-| **Back-End & Tools** | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23ffca28.svg?style=flat&logo=firebase&logoColor=black) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GenAI](https://img.shields.io/badge/GenAI-4285F4?style=flat&logo=google-gemini&logoColor=white) |
+| **Back-End & Tools** | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23000000.svg?style=flat&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23ffca28.svg?style=flat&logo=firebase&logoColor=black) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GenAI](https://img.shields.io/badge/GenAI-4285F4?style=flat&logo=google-gemini&logoColor=white)
 
 ---
 
@@ -45,6 +46,10 @@
 🚀 **[E-learning](https://github.com/MaramAhmed18/E-learning-React-Website.git)** *Localized educational platform for a global audience.*
 - **Key Features:** Multi-language support via **i18next** and complex state management for course progress.
 - **Tech Stack:** React, Redux, Axios, i18next, Tailwind.
+
+🚀 **[NodeJS Blog App](https://github.com/MaramAhmed18/Node-Project.git)** *An MVC-based mini social blog application.*
+- **Key Features:** Secure **JWT + bcrypt** authentication, role-based access control (User/Admin), and dynamic image uploads.
+- **Tech Stack:** Node.js, Express.js, Firebase, JWT, bcrypt, MVC Architecture.  
 
 ---
 
