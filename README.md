@@ -17,7 +17,7 @@
 - 💡 Expert in building responsive web and mobile applications with **React** and **React Native**.
 - 🛠️ Robust back-end capabilities utilizing Node.js, Express.js, and MongoDB to deliver complete end-to-end solutions.
 - 🧠 Focused on pixel-perfect UI/UX and integrating advanced Generative AI features.  
-- 📄 **Resume:** [View My CV](https://drive.google.com/file/d/1uwft2Z-yMd13gC9caNWJehdwTQNwLm3X/view?usp=sharing)
+- 📄 **Resume:** [View My CV](https://drive.google.com/file/d/1BXhJC4wk0Y98CvY0CDH2j9cRaDn7hf_O/view?usp=drive_link)
 - 📁 **Portfolio:** [maram-ahmed.vercel.app](https://maram-ahmed.vercel.app/) 
 
 ---
